@@ -10,7 +10,7 @@
 
 ● Sou de Juazeiro do Norte - CE, tenho 18 anos, técnico em Informática, fascinado pela computação e por tudo que a envolve, e graduando em Ciência da Computação pela Universidade Federal do Cariri, onde sou também voluntário do projeto de extensão [Pensamento Computacional](https://www.instagram.com/pcomputacionalufca/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==). 
 <p>● Tenho experiência profissional na área de Suporte Técnico Remoto, onde atuava diretamente no atendimento e relacionamento com o cliente, sanando dúvidas, corrigindo erros e realizando atualizações e instalações no sistema.</p>
-<p></p>● Atualmente, estou buscando desenvolver ainda mais minha lógica computacional e almejo me tornar um Desenvolvedor Front-end.</p>
+<p></p>● Atualmente, estou buscando desenvolver ainda mais minha lógica computacional e almejo me tornar um Desenvolvedor Front-end com foco em JavaScript.</p>
 
 ### Tenho conhecimento em:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
