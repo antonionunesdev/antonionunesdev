@@ -8,7 +8,7 @@
 
 ###  
 
-● Sou cearense, tenho 18 anos, técnico em Informática, apaixonado pela computação e por tudo que a envolve, e graduando em Ciência da Computação pela [Universidade Federal do Cariri](https://www.instagram.com/ufcaoficial/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==), onde sou também voluntário do projeto de extensão [Pensamento Computacional](https://www.instagram.com/pcomputacionalufca/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==). 
+● Sou de Juazeiro do Norte - CE, tenho 18 anos, técnico em Informática, fascinado pela computação e por tudo que a envolve, e graduando em Ciência da Computação pela Universidade Federal do Cariri, onde sou também voluntário do projeto de extensão [Pensamento Computacional](https://www.instagram.com/pcomputacionalufca/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==). 
 <p>● Tenho experiência profissional na área de Suporte Técnico Remoto, onde atuava diretamente no atendimento e relacionamento com o cliente, sanando dúvidas, corrigindo erros e realizando atualizações e instalações no sistema.</p>
 <p></p>● Atualmente, estou buscando desenvolver ainda mais minha lógica computacional e almejo me tornar um Desenvolvedor Front-end.</p>
 
@@ -19,6 +19,6 @@
 </br>
 <div>
 <a href="https://github.com/AntonioNunessz">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNunessz&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=AntonioNunessz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNunessz&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=AntonioNunessz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
