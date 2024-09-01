@@ -15,9 +15,13 @@
 
 <p>Atualmente, curso Ciência da Computação na Universidade Federal do Cariri, onde faço parte do projeto de extensão <a href="https://www.instagram.com/pcomputacionalufca/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==">Pensamento Computacional</a>.</p>
 
-<p>Desde o mês de maio de 2024, estou participando do programa de Residência em TIC, ofertado pela BRISA, em parceria com a UFCA, e que terá duração até o mês de agosto. Nesta oportunidade, na qual sou o gerente de projetos da equipe, e também líder do desenvolvimento front-end, onde utilizamos React JS, estamos desenvolvendo um software para a PROEX, Pró-reitoria de Extensão da UFCA.</p>
+<p>Do mês de março ao mês de agosto de 2024, participei do programa de Residência em TIC, ofertado pela BRISA, em parceria com a UFCA. Nesta oportunidade, na qual fui o gerente de projetos da equipe, e também líder do desenvolvimento front-end, onde utilizamos React JS, desenvolvemos um sistema web multiplataforma para a PROEX, Pró-Reitoria de Extensão da UFCA.</p>
 
 <p>Ademais, tenho estudado e buscado aprimorar ainda mais minha lógica computacional e minhas habilidades com o desenvolvimento front-end, envolvendo HTML, CSS, JavaScript e suas bibliotecas. Principais competências profissionais: trabalho em equipe, liderança, espírito empreendedor, organização, comunicação e flexibilidade.</p>
 
 ### ● Tecnologias e Ferramentas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/>
+
+### ● Estatísticas no GitHub:
+![antonionunesdev's Stats](https://github-readme-stats.vercel.app/api?username=antonionunesdev&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+![antonionunesdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=antonionunesdev&theme=tokyonight&hide_border=false)
