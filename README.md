@@ -21,7 +21,3 @@
 
 ### ● Tecnologias e Ferramentas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/>
-
-### ● Estatísticas no GitHub:
-![antonionunesdev's Stats](https://github-readme-stats.vercel.app/api?username=antonionunesdev&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
-![antonionunesdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=antonionunesdev&theme=tokyonight&hide_border=false)
